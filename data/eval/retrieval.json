@@ -1,0 +1,107 @@
+[
+  {
+    "id": "case_01",
+    "query": "Ki volt Frederick Jackson Turner, és mit tartott az amerikai történelem egyik legfontosabb folyamatának?",
+    "relevant_ids": [0]
+  },
+  {
+    "id": "case_02",
+    "query": "Mit mondott George Washington az indián népekről a Kongresszushoz intézett üzenetében?",
+    "relevant_ids": [0]
+  },
+  {
+    "id": "case_03",
+    "query": "Hogyan indokolta Thomas Jefferson az afrikai származású rabszolgák eltávolításának szükségességét?",
+    "relevant_ids": [0, 2]
+  },
+  {
+    "id": "case_04",
+    "query": "Mi volt az Indian Removal Act lényege, és hogyan érintette az indián törzseket?",
+    "relevant_ids": [2, 10]
+  },
+  {
+    "id": "case_05",
+    "query": "Mi történt a 'Könnyek ösvényén' (Trail of Tears), és nagyjából hány cseroki indiánt telepítettek ki?",
+    "relevant_ids": [2, 10, 11]
+  },
+  {
+    "id": "case_06",
+    "query": "Ki volt John Eliot, és miért fordította le a Bibliát az algonkin indiánok nyelvére?",
+    "relevant_ids": [0, 1]
+  },
+  {
+    "id": "case_07",
+    "query": "Mit jelentett Natick neve, és milyen szerepe volt az 'imádkozó indián falvak' történetében?",
+    "relevant_ids": [1]
+  },
+  {
+    "id": "case_08",
+    "query": "Miért tartották fontosnak az amerikai döntéshozók az angol nyelv ráerőltetését az indiánokra?",
+    "relevant_ids": [3]
+  },
+  {
+    "id": "case_09",
+    "query": "Ki volt Noah Webster, és mit képviselt az angol nyelv szerepéről az Egyesült Államokban?",
+    "relevant_ids": [3]
+  },
+  {
+    "id": "case_10",
+    "query": "Mi volt a Bureau of Indian Affairs (BIA) feladata a 19–20. században az oktatás területén?",
+    "relevant_ids": [3, 7]
+  },
+  {
+    "id": "case_11",
+    "query": "Hol és mikor nyílt meg az első Indián Ipari Iskola, és mi volt a célja?",
+    "relevant_ids": [4]
+  },
+  {
+    "id": "case_12",
+    "query": "Milyen fegyelmi szabályok és büntetések jellemezték a bentlakásos indián iskolákat?",
+    "relevant_ids": [4, 5]
+  },
+  {
+    "id": "case_13",
+    "query": "Mi volt a carlisle-i Indián Ipari Iskola mottója: 'Kill the Indian, save the man' üzenete?",
+    "relevant_ids": [9, 10]
+  },
+  {
+    "id": "case_14",
+    "query": "Ki volt Gertude Bonnin, és miért kritizálta a bentlakásos indián iskolákat?",
+    "relevant_ids": [5, 6]
+  },
+  {
+    "id": "case_15",
+    "query": "Miért hozták létre a Rough Rock-i Navahó Nemzeti Minta Iskolát, és milyen volt az oktatás nyelve?",
+    "relevant_ids": [6]
+  },
+  {
+    "id": "case_16",
+    "query": "Mi volt a Navajo Community College (későbbi Dine Főiskola) jelentősége az indián felsőoktatásban?",
+    "relevant_ids": [6, 7]
+  },
+  {
+    "id": "case_17",
+    "query": "Mit biztosított az 1934-es Indian Reorganization Act az indián közösségek számára?",
+    "relevant_ids": [6, 9]
+  },
+  {
+    "id": "case_18",
+    "query": "Miért minősítette a Kennedy-jelentés 'össznemzeti tragédiának' a bentlakásos iskolákat?",
+    "relevant_ids": [7]
+  },
+  {
+    "id": "case_19",
+    "query": "Mi volt az 1972-es Indian Education Act és az 1978-as Indian Child Welfare Act fő célja?",
+    "relevant_ids": [7, 10]
+  },
+  {
+    "id": "case_20",
+    "query": "Mit próbált elérni a Language Revitalization Act és a No Child Left Behind Act az indián diákok körében?",
+    "relevant_ids": [7]
+  },
+  {
+    "id": "case_21",
+    "query": "Mit jelentett a Blueprint Reform az indián iskolák és a Bureau of Indian Education számára?",
+    "relevant_ids": [7, 8]
+  }
+]

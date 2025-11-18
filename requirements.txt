@@ -1,0 +1,7 @@
+pip install fastapi
+pip install uvicorn
+pip install streamlit
+pip install openai
+pip install requests
+pip install python-dotenv
+pip install pydantic

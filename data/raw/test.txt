@@ -1,0 +1,12 @@
+Acme Corporation Internal Overview Document
+
+Acme Corporation is a technology consulting company specializing in
+data engineering, cloud automation, and AI-driven analytics solutions.
+Founded in 2012, Acme has delivered over 140 international projects.
+
+Key business areas:
+- Cloud migration
+- Data pipelines
+- LLM-based enterprise chatbots
+
+Acme's mission is to deliver reliable, scalable, and ethical AI systems.

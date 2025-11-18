@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prompt_01",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Ki volt Frederick Jackson Turner, és miért fontos a 'frontier' politika az értelmezésében?",
+    "gold_answer": "Frederick Jackson Turner (1861–1932) amerikai történész volt, aki szerint az amerikai történelem egyik legfontosabb folyamata a kétszázötven évig tartó nyugati irányú népességmozgás, az úgynevezett frontier-politika volt."
+  },
+  {
+    "id": "prompt_02",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Mit mondott George Washington az indiánokkal való bánásmódról, és hogyan valósult ez meg a gyakorlatban?",
+    "gold_answer": "Washington szerint a műveltebb és erősebb fehér amerikaiak becsületbeli kötelessége volna jóságosan és nemes lelkűen bánni az indián népekkel, de a déli államok törvényhozása, a kormányzók és a bíróságok politikája valójában az indiánok földjeiktől való megfosztását és kitelepítését szolgálta."
+  },
+  {
+    "id": "prompt_03",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Hogyan viszonyult Thomas Jefferson az indiánokhoz és a rabszolgákhoz, és milyen ellentmondások voltak a nézeteiben?",
+    "gold_answer": "Jefferson egyszerre magasztalta az indiánok kultúráját és intelligenciáját, ugyanakkor ragaszkodott a fehér és fekete lakosság szétválasztásához. Úgy gondolta, hogy a rabszolgák egyszer felszabadulnak, de a két szabad faj nem élhet egy államban, ezért az afrikaiakat el kell távolítani, az indiánokat pedig asszimiláció vagy nyugatra telepítés várja."
+  },
+  {
+    "id": "prompt_04",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Mi volt az Indian Removal Act célja, és milyen következményekkel járt a cseroki törzsre nézve?",
+    "gold_answer": "Az 1830-as Indian Removal Act felhatalmazta az elnököt, hogy a Mississippi nyugati oldalán fekvő rendezett területeket adjon cserébe az indiánok földjeiért. Ennek eredményeként több törzset, köztük a cserokikat is erőszakkal telepítették nyugatra; a 'Könnyek ösvényének' nevezett kényszerű menetelés során mintegy 15 000 cserokiból több mint 4 000 halt meg."
+  },
+  {
+    "id": "prompt_05",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Ki volt John Eliot, és milyen szerepet játszott az indián Biblia és Natick létrehozásában?",
+    "gold_answer": "John Eliot puritán lelkész, az 'indiánok apostola' megtanulta az algonkin indiánok nyelvét, és lefordította erre a Bibliát, amely 1663-ban jelent meg, az USA első nyomtatott Bibliájaként. Ő alapította Natickot, az első 'imádkozó indián falut', ahol az indiánokat a keresztény társadalomba való beilleszkedésre és későbbi missziós szerepre készítették fel."
+  },
+  {
+    "id": "prompt_06",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Miért tartották az amerikai döntéshozók nélkülözhetetlennek az angol nyelv elsajátítását az indiánok számára?",
+    "gold_answer": "A kormányzat szerint az angol volt a civilizáció és az amerikai állampolgárság nyelve, ezért úgy gondolták, hogy a 'vademberek' felemelkedése és integrációja csak angol nyelvű oktatáson keresztül lehetséges. Az angol nyelv erőltetése az indián kultúra, hagyományok és nyelvek felszámolását is szolgálta."
+  },
+  {
+    "id": "prompt_07",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Ki volt Noah Webster, és milyen szerepet tulajdonított az egységes nyelvnek az Egyesült Államokban?",
+    "gold_answer": "Noah Webstert 'Amerika iskolamesterének' tartják; támogatta az angol nyelv nemzeti nyelvként való elismertetését, mert az egységes nyelvet a nemzeti egység és az oktatási rendszer alapfeltételének tekintette."
+  },
+  {
+    "id": "prompt_08",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Mi volt a Bureau of Indian Affairs (BIA) szerepe az indián oktatás történetében?",
+    "gold_answer": "A függetlenségi háború után létrehozott Bureau of Indian Affairs egészen a 20. század közepéig az indián ügyekért felelős szövetségi szerv volt, amely az erőszakos angolosító oktatáspolitika végrehajtásában is kulcsszerepet játszott, többek között a bentlakásos iskolák fenntartásán keresztül."
+  },
+  {
+    "id": "prompt_09",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Milyen célokkal hozták létre a Carlisle-i Indián Ipari Iskolát, és milyen eszközökkel próbálták elérni ezeket?",
+    "gold_answer": "Az 1879-ben, Pennsylvaniában megnyílt Carlisle Indián Ipari Iskola célja az indián gyerekek 'civilizálása' és amerikanizálása volt. Féléves elméleti és gyakorlati képzést nyújtott, szigorú katonai fegyelemmel, kötelező angol nyelvhasználattal, egyenruhával és az indián ruházat, hajviselet, vallási gyakorlatok teljes elnyomásával."
+  },
+  {
+    "id": "prompt_10",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Mit jelentett a 'Kill the Indian, save the man' jelszó a bentlakásos iskolák kontextusában?",
+    "gold_answer": "A 'Kill the Indian, save the man' jelszó azt fejezte ki, hogy a bentlakásos iskolák célja az indián identitás, nyelv és kultúra 'megölése', hogy a gyerekekből a fehér amerikai társadalomba illeszkedő, asszimilált állampolgárokat neveljenek."
+  },
+  {
+    "id": "prompt_11",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Miért bírálta Gertude Bonnin (Zitkala-Sa) a carlisle-i és más bentlakásos iskolákat?",
+    "gold_answer": "Gertude Bonnin, aki maga is tanított Carlisle-ben, úgy vélte, hogy a bentlakásos iskolarendszer 'nyomorúságos állapotban van, és kulturális zavart okoz', mert a gyerekeket elszakítja családjuktól, erőszakos fegyelmet és keresztény evangelizációt kényszerít rájuk, és visszatérésükkor idegennek érzik magukat saját közösségükben."
+  },
+  {
+    "id": "prompt_12",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Milyen szerepe volt a Rough Rock-i Navahó Nemzeti Minta Iskolának az indián oktatás megújításában?",
+    "gold_answer": "Az 1966-ban Arizonában megnyílt Rough Rock Navajo Demonstration School volt az első, navahó közösség által irányított minta iskola, ahol két nyelven, navahóul és angolul oktattak. Célja az volt, hogy ötvözze a fehér iskolai rendszer elemeit a navahó közösségi iskolával és a törzsi önigazgatással."
+  },
+  {
+    "id": "prompt_13",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Mit biztosított az 1934-es Indian Reorganization Act az indián közösségek számára az oktatás és önkormányzás területén?",
+    "gold_answer": "Az Indian Reorganization Act elismerte az indián törzsek belső önkormányzati jogát, és a szövetségi felügyelet helyett a törzsi önigazgatásra bízta többek között az oktatás és az anyanyelvi kultúra ápolásának kérdését, bár döntéseik továbbra is függtek a szövetségi politika változásaitól."
+  },
+  {
+    "id": "prompt_14",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Mi volt az 1972-es Indian Education Act és az 1978-as Indian Child Welfare Act fő üzenete?",
+    "gold_answer": "Az Indian Education Act kimondta, hogy a szövetségi kormány addigi erőfeszítései nem biztosítottak minőségi oktatást az indiánoknak, és külön programokat irányzott elő a helyzet javítására. Az Indian Child Welfare Act pedig az indián szülők jogát védte, hogy gyermekeiket ne helyezzék a törzsi közösségen kívüli bentlakásos intézményekbe szülői beleegyezés nélkül."
+  },
+  {
+    "id": "prompt_15",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "question": "Milyen célokat szolgált a Language Revitalization Act és a No Child Left Behind Act az amerikai indián diákok esetében?",
+    "gold_answer": "Az 1990-es Native American Languages Act (Language Revitalization Act) célja az indián nyelvek megőrzése, szabad használata és az anyanyelvi kultúra fejlesztése volt. A 2002-es No Child Left Behind Act a hátrányos helyzetű, köztük az indián diákok tanulmányi eredményeinek javítását és az iskolai programok minőségének emelését célozta, külön támogatást biztosítva az érintett iskolakörzeteknek."
+  }
+]

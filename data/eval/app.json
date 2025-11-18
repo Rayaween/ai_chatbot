@@ -1,0 +1,87 @@
+[
+  {
+    "id": "scenario_01_alap_osszefoglalas",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "upload": true,
+    "questions": [
+      {
+        "q": "Miről szól röviden Zsigmond Anna cikke az indián oktatás történetéről az Egyesült Államokban?",
+        "gold_answer": "A cikk az amerikai őslakos indiánok oktatásának történetét tekinti át, bemutatva, hogyan kapcsolódott az oktatáspolitika a területi terjeszkedéshez, az asszimilációhoz, a nyelvpolitikához és a polgárjogi küzdelmekhez a gyarmati kortól a 21. századig.",
+        "max_latency_sec": 10.0
+      },
+      {
+        "q": "Ki volt Frederick Jackson Turner, és hogyan értelmezte a 'frontier' szerepét az amerikai történelemben?",
+        "gold_answer": "Frederick Jackson Turner amerikai történész volt, aki szerint az Egyesült Államok történetének egyik legfontosabb folyamata a nyugati irányú terjeszkedés, a frontier-politika, amely meghatározta az amerikai társadalom fejlődését.",
+        "max_latency_sec": 10.0
+      }
+    ]
+  },
+  {
+    "id": "scenario_02_kitelepites",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "upload": true,
+    "questions": [
+      {
+        "q": "Mi volt az 1830-as Indian Removal Act fő célja?",
+        "gold_answer": "Az Indian Removal Act célja az volt, hogy a Mississippi keleti partján élő indián törzseket földjeik feladására és nyugatra településre kényszerítse, cserébe nyugati területeket ajánlva fel számukra.",
+        "max_latency_sec": 10.0
+      },
+      {
+        "q": "Mit jelentett a cseroki törzs számára a 'Könnyek ösvénye'?",
+        "gold_answer": "A 'Könnyek ösvénye' a cseroki törzs erőszakos kitelepítésének útvonala volt, amelyen mintegy 15 000 ember indult útnak, és közülük több mint 4 000 halt meg az embertelen körülmények következtében.",
+        "max_latency_sec": 10.0
+      }
+    ]
+  },
+  {
+    "id": "scenario_03_nyelv_es_asszimilacio",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "upload": true,
+    "questions": [
+      {
+        "q": "Miért tartotta az amerikai kormány fontosnak az angol nyelv kötelezővé tételét az indián gyerekek számára?",
+        "gold_answer": "A kormány szerint az angol nyelv volt a civilizáció és az amerikai állampolgárság előfeltétele, ezért az indián gyerekek angolosítása az asszimilációt, az indián nyelvek és hagyományok felszámolását szolgálta.",
+        "max_latency_sec": 10.0
+      },
+      {
+        "q": "Mit fejezett ki a bentlakásos iskolákban használt 'Kill the Indian, save the man' jelszó?",
+        "gold_answer": "A jelszó azt jelentette, hogy az iskolák célja az indián identitás, nyelv és kultúra 'megölése', hogy a gyerekekből a fehér társadalomhoz igazodó, asszimilált állampolgárokat neveljenek.",
+        "max_latency_sec": 10.0
+      }
+    ]
+  },
+  {
+    "id": "scenario_04_navajo_reformok",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "upload": true,
+    "questions": [
+      {
+        "q": "Milyen céllal hozták létre a Rough Rock-i Navahó Nemzeti Minta Iskolát?",
+        "gold_answer": "A Rough Rock-i iskola célja az volt, hogy navahó irányítás alatt, két nyelvű oktatással ötvözze a fehér oktatási rendszer elemeit a navahó közösségi iskolával, és példát mutasson az indián önigazgatásra az oktatásban.",
+        "max_latency_sec": 10.0
+      },
+      {
+        "q": "Miért alapította meg a navahó törzsi tanács a Navajo Community College-ot (későbbi Dine Főiskola)?",
+        "gold_answer": "A navahó törzsi tanács a magas főiskolai lemorzsolódási arányra reagálva hozta létre az első törzsi főiskolát, hogy saját irányítás alatt, a navahó közösség igényeihez igazodó felsőoktatást biztosítson.",
+        "max_latency_sec": 10.0
+      }
+    ]
+  },
+  {
+    "id": "scenario_05_moderne_politikak",
+    "doc_path": "data/raw/belivek_39-45.pdf",
+    "upload": true,
+    "questions": [
+      {
+        "q": "Mit biztosított az 1934-es Indian Reorganization Act az indián közösségek számára?",
+        "gold_answer": "Az Indian Reorganization Act elismerte az indián törzsek belső önkormányzati jogát, és a szövetségi felügyelet helyett a törzsi önigazgatást helyezte előtérbe például az oktatás és a kulturális ügyek terén.",
+        "max_latency_sec": 10.0
+      },
+      {
+        "q": "Milyen célokat fogalmazott meg az indián diákok szempontjából a No Child Left Behind Act?",
+        "gold_answer": "A No Child Left Behind Act a hátrányos helyzetű, köztük az indián tanulók tanulmányi eredményeinek javítását, az iskolai programok minőségének emelését és a szövetségi támogatások hatékonyabb felhasználását tűzte ki célul.",
+        "max_latency_sec": 10.0
+      }
+    ]
+  }
+]
