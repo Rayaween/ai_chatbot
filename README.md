@@ -110,20 +110,19 @@ A projekt egy háromszintű értékelési rendszert tartalmaz, önálló scripte
     Ezek Streamlit felületen megjelennek.
 
 Telepítés és futtatás
-    1. Klónozd
+1. Klónozd
         git clone <https://github.com/Rayaween/ai_chatbot.git>
         cd ai_chatbot
-    
-    2. A gyökérkönyvtárban szereplő .env fileba illeszd be a használni kívánt OpenAI API kulcsot, majd mentsd el.
+2. A gyökérkönyvtárban szereplő .env fileba illeszd be a használni kívánt OpenAI API kulcsot, majd mentsd el.
 
-    2. Csomagok telepítése (requirements.txt)
-        pip install -r requirements.txt
+3. Csomagok telepítése (requirements.txt)
+    pip install -r requirements.txt
 
-    3. Backend indítása
-        uvicorn app.main:app --reload
+4. Backend indítása
+    uvicorn app.main:app --reload
 
-    4. Frontend indítása
-        streamlit run ui/app.py
+5. Frontend indítása
+    streamlit run ui/app.py
 
 Használat
     1. Nyisd meg a Streamlit UI-t.
@@ -135,4 +134,5 @@ Használat
         - a felhasznált kontextus
         - monitoring adatok
         - értékelési felület, amin értékelhető a válasz minősége
-    6. Indíts új beszélgetést vagy folytasd a meglévőben, ameddig van kérdésed.
+
+6. Indíts új beszélgetést vagy folytasd a meglévőben, ameddig van kérdésed.
